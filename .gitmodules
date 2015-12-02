@@ -1,0 +1,3 @@
+[submodule "remoto"]
+	path = remoto
+	url = https://github.com/tonyllp/remoto.git
